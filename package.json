@@ -1,6 +1,6 @@
 {
   "name": "hardhat-fundme",
-  "author": "aditya",
+  "author": "Yash dhumal",
   "version": "1.0.0",
   "devDependencies": {
     "@chainlink/contracts": "^0.4.2",
